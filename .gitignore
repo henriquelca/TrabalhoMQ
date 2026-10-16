@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credenciais e configurações locais
+.env
+.claude/
+
+# Sistema operacional / editores
+.DS_Store
+.vscode/
+.idea/
